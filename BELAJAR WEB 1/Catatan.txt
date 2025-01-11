@@ -1,0 +1,6 @@
+HTML adalah Hyper Text main link
+cara menyambungkan CSS : <link rel="stylesheet" href="style.css">
+Head adalah bagian Tabs atau dibalik semua yang ada di Web
+Body adalah tampilan yang tampak pada halaman WEB
+Div adalah menambahkan suatu kelompok bagian yang ada dalam body
+cara menambahkan sebuah icon pada tabs sebuah website <link icon="icon" type="image/png" href="logo PERPUS THGB.png">
